@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://xxxx:xxxx@vacationsportal-mahkr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "nodemailerUser": "XXXX@gmail.com",
+    "nodemailerPass": "XXXX",
+    "nodemailerService": "Gmail"
+}
